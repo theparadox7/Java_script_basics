@@ -5,4 +5,11 @@ console.log(a)
 a=6;
 console.log(a);
 
+var adi;
+adi = "I am Adithya ";
+console.log(adi);
+
+var c = adi+ "Nayak";
+console.log(c);
+
 
