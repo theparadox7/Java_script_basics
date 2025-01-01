@@ -12,4 +12,15 @@ console.log(adi);
 var c = adi+ "Nayak";
 console.log(c);
 
+var sum = 10+10;
+console.log(sum);
+
+var sum1 = 10-10;
+console.log(sum1);
+
+// var sum = 10+'10';
+// console.log(sum);
+
+// var sum1 = 10-'10';
+// console.log(sum1);
 
