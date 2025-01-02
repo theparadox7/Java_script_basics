@@ -18,9 +18,10 @@ console.log(sum);
 var sum1 = 10-10;
 console.log(sum1);
 
-// var sum = 10+'10';
-// console.log(sum);
+var sum = 1010 +'10';
+console.log(sum);
 
-// var sum1 = 10-'10';
-// console.log(sum1);
+var sum1 = 101 -'10';
+console.log(sum1);
+
 
