@@ -25,3 +25,7 @@ var sum1 = 101 -'10';
 console.log(sum1);
 
 
+var mystr = "first" + "second";
+console.log(mystr);
+mystr += "third";
+console.log(mystr);
